@@ -1,3 +1,13 @@
+@import '~antd/dist/antd.css';
+@import './styles/TopNavBar.css';
+@import './styles/App.css';
+@import './styles/main.css';
+@import './styles/profile.css';
+@import './styles/ShotChart.css';
+@import './styles/CountSlider.css';
+@import './styles/DataViewContainer.css';
+@import './styles/SearchBar.css';
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
